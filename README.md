@@ -15,7 +15,7 @@ Designed and configured a secure home network using a Cisco router and switch. I
 
 ##  Network Topology Diagram
 
-![Network Diagram](https://imgur.com/a/ONwfCgg)
+![Network Diagram](https://i.imgur.com/nWCA9cv.png)
 
 > Basic layout includes: Cisco router, switch, admin PC, guest PC, WRT300N wireless router, and IoT devices
 
